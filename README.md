@@ -1,6 +1,6 @@
 ![Preview de la calculadora funcionando](https://github.com/dmaceda/Calculator/blob/master/src/imagenes/calculator.png)
 
-https://dmaceda.github.io/Calculator/
+Link de la App: https://dmaceda.github.io/Calculator/
 
 
 # Calculadora Interactiva
