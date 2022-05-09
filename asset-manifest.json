@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calculator/static/css/main.55de31ce.css",
+    "main.js": "/Calculator/static/js/main.d4a27507.js",
+    "static/media/dmaceda_blanco.png": "/Calculator/static/media/dmaceda_blanco.392aa1cf8804f82ba1e4.png",
+    "index.html": "/Calculator/index.html",
+    "main.55de31ce.css.map": "/Calculator/static/css/main.55de31ce.css.map",
+    "main.d4a27507.js.map": "/Calculator/static/js/main.d4a27507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55de31ce.css",
+    "static/js/main.d4a27507.js"
+  ]
+}
