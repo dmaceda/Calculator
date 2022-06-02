@@ -1,4 +1,4 @@
-![Preview de la calculadora funcionando](https://github.com/dmaceda/Calculator/blob/master/src/imagenes/calculator.png)
+![Preview de la calculadora funcionando](https://github.com/dmaceda/Calculator/blob/master/src/imagenes/calculador.png)
 
 Link de la App: https://dmaceda.github.io/Calculator/
 
